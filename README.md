@@ -1,3 +1,9 @@
+# postmessage-embed-react
+
+Simple React based demo app that acts requests [postmessage auth](https://esri.github.io/arcgis-rest-js/api/auth/UserSession/#enablePostMessageAuth) from an embedding parent application
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
